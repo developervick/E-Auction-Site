@@ -12,6 +12,8 @@ any user can create a account on the site. List their item to auction, can set m
 bidding of item. Also any user is able to place bid on other items, can comment on it, reply, add it to wishlist to
 to keep eye on it. And much more.
 
+#### [Click Here to watch demo on youtube](https://youtu.be/vtPhkNEgDpo)
+
 ### Project Functionalities -
 * User Authentication and Authorization -Login, Logout, signup
 * Admin panel
