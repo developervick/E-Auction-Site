@@ -28,4 +28,27 @@ to keep eye on it. And much more.
 * Watchlist - Adding and Removing products.
 * And many more
 
+### Steps to run this project on your machine
+1. Clone this repository   
+   ```https://github.com/developervick/E-Auction-Site```   
+2. Create virtual enviroment   
+   ```python -m venv auctionenv```    
+3. Activate vitual enviroment        
+   ```auctionenv/scripts/activate```    
+4. Switch to E-Auction-Directory    
+   ```cd "E-Auction-Site```    
+5. Execute command    
+   ```python manage.py runserver```    
+Now your output should look like this    
+```
+System check identified 5 issues (0 silenced).
+June 28, 2023 - 01:40:37
+Django version 4.1.4, using settings 'commerce.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+```
+Woohooo!! your webapp is live on ```localhost:8000```   
+
+SuperUser Credentials *username*: auction *password*: 123456    
+
 ##### ** Still their is room to add much more functionalities in the system but for demonstration purpose these are enough.**
