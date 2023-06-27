@@ -1,10 +1,15 @@
 # E-Auction-Site
 ### Project Description
+This project is part of famous Harvard's CS50's web development Course. I have 
+completed this project and graded 100% from harvard CS50. Harvarad CS50 grades project
+on basis of examnination by humans. Apart of that its fully functional and productuion
+grade Web application built on Django Web framework.
 
 ### Project Functionalities
 
+
 #### If the User logged in
-       Its an complete online Auction system, where people can register themselves and create listing to sell their item,
+Its an complete online Auction system, where people can register themselves and create listing to sell their item,
        For their item they can set starting bid, its title, detailed description, category and can upload its Photo,
        along with this they can browse all the listing and currently active listings placed by other users,
        user can also browse listing by category. 
